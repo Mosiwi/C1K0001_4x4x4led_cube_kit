@@ -43,7 +43,7 @@ For Raspberry pi pico: Python
 ## For Arduino      
 --------------
 **Arduino basics  (Important):**  
-If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](../../arduino/A1D0000_uno_r3/A1D0000_uno_r3.md)  
+If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/arduino/A1D0000_uno_r3/A1D0000_uno_r3.html)  
 
 **Wiring diagram:**  
 |  UNO or nano  |   Cube   |  
@@ -71,7 +71,7 @@ After opening the sample, select the "Arduino UNO" or "Arduino nano" development
 ## For Raspberry pi pico      
 ------------------------
 **Pico and Thonny basics (Important):**        
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](../../raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.md)  
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)  
  
 **Wiring diagram:**   
 |      pico     |   Cube   |  
@@ -103,11 +103,11 @@ Run the code offline. (The code is stored in pico, and the code in pico is autom
 ## For Raspberry pi4      
 --------------------
 **Pi4 basics (Important):**   
-If you don't have Pi4 basics, you can follow the link to learn the basics: [Click Me](../../raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.md)  
+If you don't have Pi4 basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.html)  
 
 Install the GPIO library for Raspberry pi4 (<span style="color: rgb(255, 76, 65);">Necessary condition</span>):                 
-1. Install the [Wiringpi](../../raspberry/wiringpi/wiringpi.md)   
-2. Install the [BCM2835](../../raspberry/bcm2835/bcm2835.md)     
+1. Install the [Wiringpi](https://docs.mosiwi.com/en/latest/raspberry/wiringpi/wiringpi.html)   
+2. Install the [BCM2835](https://docs.mosiwi.com/en/latest/raspberry/bcm2835/bcm2835.html)     
 
 **Wiring diagram:**   
 | pi4(Wiringpi) |   pi4(BCM)    |   Cube   |  
@@ -120,7 +120,7 @@ Install the GPIO library for Raspberry pi4 (<span style="color: rgb(255, 76, 65)
 
 **Get source code:**    
 Method 1.   
-Use **WinSCP** to upload the downloaded library file to Raspberry Pi4: [Link](../../raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.md#transfer-files-from-your-pc-to-raspberry-pi-4)     
+Use **WinSCP** to upload the downloaded library file to Raspberry Pi4: [Link](https://docs.mosiwi.com/en/latest/raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.html#transfer-files-from-your-pc-to-raspberry-pi4)     
 
 Method 2.     
 Open the Raspberry pi4 or [Git](https://git-scm.com/) terminal and run the following command to download it from github.     
@@ -164,7 +164,7 @@ sudo make
 ## For Micro:bit     
 ----------------
 **Microbit basics (Important):**   
-If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](../../microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.md)  
+If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html)  
 
 **Wiring diagram:**  
 |    Microbit   |   Cube   |  
