@@ -27,7 +27,7 @@ markdown_extensions:
       base_path: .
   - admonition
 
-nav:
-  - Overview: index.md
-  - Assembly: assembly.md 
-  - Tutorial: tutorial.md  
+#nav:
+#  - Overview: index.md
+#  - Assembly: assembly.md 
+#  - Tutorial: tutorial.md  
