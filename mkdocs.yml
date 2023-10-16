@@ -5,7 +5,7 @@ theme:
   name: readthedocs
   highlightjs: true
   # The maximum depth of the navigation tree in the sidebar.
-  navigation_depth: 4
+  navigation_depth: 3
   features:
     - navigation.footer
   logo: assets/mosiwi_logo.png  
@@ -27,5 +27,7 @@ markdown_extensions:
       base_path: .
   - admonition
 
-#nav:
-#  - Home: xx.md
+nav:
+  - Overview: index.md
+  - Assembly: assembly.md 
+  - Tutorial: tutorial.md  
