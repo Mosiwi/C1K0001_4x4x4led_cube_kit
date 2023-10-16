@@ -45,7 +45,7 @@ For Raspberry pi pico: Python
 **Arduino basics  (Important):**  
 If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/arduino/A1D0000_uno_r3/A1D0000_uno_r3.html)  
 
-**Wiring diagram:**  
+**Wiring diagram:**     
 |  UNO or nano  |   Cube   |  
 |      :--:     |   :--:   |  
 |   5V or 3V3   |   VCC    |  
@@ -73,7 +73,8 @@ After opening the sample, select the "Arduino UNO" or "Arduino nano" development
 **Pico and Thonny basics (Important):**        
 If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)  
  
-**Wiring diagram:**   
+**Wiring diagram:**    
+
 |      pico     |   Cube   |  
 |      :--:     |   :--:   |   
 |  VBUS or 3V3  |   VCC    |  
@@ -95,6 +96,7 @@ Run the code online. (The code is not saved in pico and is not executed after re
 ![Img](./img/10img.png)
 
 Run the code offline. (The code is stored in pico, and the code in pico is automatically executed after being powered on.)   
+
 | 1 | 2 | 3 |
 |:---:|:---:|:---:|
 | ![Img](./img/11img.png) | ![Img](./img/12img.png) | ![Img](./img/13img.png) |
@@ -109,7 +111,8 @@ Install the GPIO library for Raspberry pi4 (<span style="color: rgb(255, 76, 65)
 1. Install the [Wiringpi](https://docs.mosiwi.com/en/latest/raspberry/wiringpi/wiringpi.html)   
 2. Install the [BCM2835](https://docs.mosiwi.com/en/latest/raspberry/bcm2835/bcm2835.html)     
 
-**Wiring diagram:**   
+**Wiring diagram:**     
+
 | pi4(Wiringpi) |   pi4(BCM)    |   Cube   |  
 |     :--:      |      :--:     |   :--:   |    
 |   5V or 3V3   |   5V or 3V3   |    VCC   |  
@@ -166,7 +169,8 @@ sudo make
 **Microbit basics (Important):**   
 If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html)  
 
-**Wiring diagram:**  
+**Wiring diagram:**     
+
 |    Microbit   |   Cube   |  
 |      :--:     |   :--:   |   
 |      3V       |   VCC    |  
@@ -242,6 +246,7 @@ SH_C = Shift_clock, the recommended frequency is less than 25MHz.
 
 **Timing display format**  
 A cube:  
+
 |      t        |      t        |      t        |      t        |      t        |      ....     |      t        |      ....     |  
 |     :--:      |     :--:      |     :--:      |     :--:      |     :--:      |      :--:     |     :--:      |      :--:     |  
 |    Laye 4     |    Laye 3     |    Laye 2     |    Laye 1     |    Laye 4     |      ....     |    Laye 1     |      ....     |  
@@ -251,6 +256,7 @@ t: MCU timer interrupt time.
 Cube display frequency: It must be ≥ 50Hz, f = 1s/(t \* 4)  
 
 Series multiple cubes:   
+
 |      T        |      T        |     ....      |      T        |      T        |       T       |      ....     |  
 |     :--:      |     :--:      |     :--:      |     :--:      |     :--:      |      :--:     |      :--:     |  
 |    Cube N     |   Cube N-1    |     ....      |    Cube 2     |    Cube 1     |     Cube N    |      ....     |  
