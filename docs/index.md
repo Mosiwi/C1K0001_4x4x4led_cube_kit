@@ -46,8 +46,8 @@ For Raspberry pi pico: Python
 If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/arduino/A1D0000_uno_r3/A1D0000_uno_r3.html)  
 
 **Wiring diagram:**     
-|  UNO or nano  |   Cube   |  
-|      :--:     |   :--:   |  
+| UNO or nano  | Cube |  
+| :--: | :--: |  
 |   5V or 3V3   |   VCC    |  
 |      GND      |   GND    |  
 |      13       |   SH_C   |  
@@ -76,7 +76,7 @@ If you don't have Pico and Thonny basics, you can follow the link to learn the b
 **Wiring diagram:**    
 
 |      pico     |   Cube   |  
-|      :--:     |   :--:   |   
+| :--: | :--: |   
 |  VBUS or 3V3  |   VCC    |  
 |      GND      |   GND    |  
 |      18       |   SH_C   |  
@@ -114,7 +114,7 @@ Install the GPIO library for Raspberry pi4 (<span style="color: rgb(255, 76, 65)
 **Wiring diagram:**     
 
 | pi4(Wiringpi) |   pi4(BCM)    |   Cube   |  
-|     :--:      |      :--:     |   :--:   |    
+| :--: | :--: | :--: |    
 |   5V or 3V3   |   5V or 3V3   |    VCC   |  
 |      GND      |    GND        |    GND   |  
 |      14       |    GPIO 11    |    SH_C  |  
@@ -172,7 +172,7 @@ If you don't have microbit basics, you can follow the link to learn the basics: 
 **Wiring diagram:**     
 
 |    Microbit   |   Cube   |  
-|      :--:     |   :--:   |   
+| :--: | :--: |   
 |      3V       |   VCC    |  
 |      GND      |   GND    |  
 |      13       |   SH_C   |  
