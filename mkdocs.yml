@@ -1,18 +1,8 @@
 site_name: Mosiwi
-
-# See: https://squidfunk.github.io/mkdocs-material/setup
 theme:
   name: readthedocs
   highlightjs: true
-  # The maximum depth of the navigation tree in the sidebar.
-  navigation_depth: 4
-  features:
-    - navigation.footer
-  logo: assets/mosiwi_logo.png  
-  favicon: assets/my_favicon.png
-
-copyright: Copyright Shenzhen Mosiwi Technology Co., Ltd'.
-
+  logo: assets/mosiwi_logo.png
 plugins:
   - search
   - mkdocstrings:
@@ -21,13 +11,7 @@ plugins:
         python:
           options:
             docstring_style: sphinx
-
 markdown_extensions:
   - markdown_include.include:
       base_path: .
-  - admonition
-
-#nav:
-#  - Overview: index.md
-#  - Assembly: assembly.md 
-#  - Tutorial: tutorial.md  
+  - admonition 
