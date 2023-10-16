@@ -8,10 +8,8 @@ theme:
   navigation_depth: 4
   features:
     - navigation.footer
-  logo: web_logo/mosiwi_logo.png
-
-extra:
-  generator: false
+  logo: web_logo/mosiwi_logo.png  
+  favicon: web_logo/mosiwi_logo.png
 
 copyright: Copyright Shenzhen Mosiwi Technology Co., Ltd'.
 
