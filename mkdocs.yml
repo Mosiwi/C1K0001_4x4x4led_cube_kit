@@ -9,7 +9,7 @@ theme:
   features:
     - navigation.footer
   logo: assets/mosiwi_logo.png  
-  favicon: images/favicon.png
+  favicon: assets/images/favicon.png
 
 copyright: Copyright Shenzhen Mosiwi Technology Co., Ltd'.
 
