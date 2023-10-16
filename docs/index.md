@@ -1,6 +1,6 @@
 # C1K0001_4x4x4led_cube_kit  
 ---------------------------
-![Img](./_static/4img.jpg)  
+![Img](./img/4img.jpg)  
 This is a very interesting light cube that can be used for learning programming or as an ambient light. When used for learning programming, <span style="color: rgb(255, 76, 65);">we provide rich sample code such as Arduino, Raspberry pi 4B, Micro:bit, and Raspberry pi pico</span>. This light cube also has an excellent feature, which is that multiple light cubes can be connected together in series, and they can be controlled simultaneously or independently using the MCU.    
 <span style="color: rgb(255, 76, 65);">(No welding, can be assembled in 10 minutes.)</span>   
 
@@ -17,9 +17,9 @@ This is a very interesting light cube that can be used for learning programming 
 -------
 | PCB cube | Acrylic cube | HX-2.54 4P to M-duport wire | HX-2.54 4P to F-duport wire |
 | :--: | :--: | :--: | :--: |
-| ![Img](./_static/29img.jpg) | ![Img](./_static/30img.png) | ![Img](./_static/31img.png) | ![Img](./_static/28img.png) |    
+| ![Img](./img/29img.jpg) | ![Img](./img/30img.png) | ![Img](./img/31img.png) | ![Img](./img/28img.png) |    
 | HX-2.54 4P M-M wire | M3\*8mm flat-head screw | M3 nuts |  |    
-| ![Img](./_static/27img.png) | ![Img](./_static/25img.png) | ![Img](./_static/26img.png) |  |   
+| ![Img](./img/27img.png) | ![Img](./img/25img.png) | ![Img](./img/26img.png) |  |   
 
 ## Assembly steps      
 -----------------    
@@ -28,14 +28,14 @@ Please refer to: [Link]()
 ## Series method  
 ----------------
 If you have multiple cubes, you can string them together as follows.    
-![Img](./_static/3img.png)    
-![Img](./_static/6img.jpg)
+![Img](./img/3img.png)    
+![Img](./img/6img.jpg)
 
 ## Download library file     
 ------------------------
 This library package is available for Arduino: UNO and NANO, Raspberry pi 4B, and Raspberry pi pico.  
 Download resource: <https://github.com/mosiwi/Mosiwi-4x4x4cube>  
-![Img](./_static/5img.png)  
+![Img](./img/5img.png)  
 For Arduino UNO and NANO: C++ && C_language  
 For Raspberry pi4: C_language    
 For Raspberry pi pico: Python    
@@ -56,15 +56,15 @@ If you don't have Arduino basics, you can follow the link to learn the basics: [
 
 **Install the Arduino library file:**  
 Load the "Mosiwi-4x4x4cube.zip" file downloaded above into the arduino IDE:          
-![Img](./_static/33img.png)       
+![Img](./img/33img.png)       
 Select the compressed library file to load:       
-![Img](./_static/34img.png)
+![Img](./img/34img.png)
 
 For other methods, see (Option): <https://www.arduino.cc/en/Guide/Libraries>      
 
 **Use the example code in the library file:**    
 If you have successfully loaded the library file, you can open the sample code in the library file in the arduino IDE as follows.   
-![Img](./_static/7img.png)   
+![Img](./img/7img.png)   
 
 After opening the sample, select the "Arduino UNO" or "Arduino nano" development board, then select the COMx port, and then upload the code to the development board.  
 
@@ -84,20 +84,20 @@ If you don't have Pico and Thonny basics, you can follow the link to learn the b
 
 **Use the pico example code in the library file:**        
 Unzip the "Mosiwi-4x4x4cube.zip" file you downloaded above:            
-![Img](./_static/35img.png)        
+![Img](./img/35img.png)        
 
 Open one of the sample code as follows.  
-![Img](./_static/8img.png)   
+![Img](./img/8img.png)   
    
-![Img](./_static/9img.png)   
+![Img](./img/9img.png)   
 
 Run the code online. (The code is not saved in pico and is not executed after repowering.)    
-![Img](./_static/10img.png)
+![Img](./img/10img.png)
 
 Run the code offline. (The code is stored in pico, and the code in pico is automatically executed after being powered on.)   
 | 1 | 2 | 3 |
 |:---:|:---:|:---:|
-| ![Img](./_static/11img.png) | ![Img](./_static/12img.png) | ![Img](./_static/13img.png) |
+| ![Img](./img/11img.png) | ![Img](./img/12img.png) | ![Img](./img/13img.png) |
 
 
 ## For Raspberry pi4      
@@ -127,7 +127,7 @@ Open the Raspberry pi4 or [Git](https://git-scm.com/) terminal and run the follo
 ```    
  git clone https://github.com/mosiwi/Mosiwi-4x4x4cube    
 ```   
-![Img](./_static/32img.png)           
+![Img](./img/32img.png)           
 (Terminal of Raspberry pi4)
 
 **Add execute permissions for the files:**     
@@ -177,42 +177,42 @@ If you don't have microbit basics, you can follow the link to learn the basics: 
 
 **Create a new project:**    
 Open the link to create a new online project: <https://makecode.microbit.org>     
-![Img](./_static/14img.jpg)  
+![Img](./img/14img.jpg)  
 
 **Load extension library:** 
-![Img](./_static/15img.png)  
+![Img](./img/15img.png)  
 
 Fill in the link on the right in the search field to search for extension packs: <https://github.com/Mosiwi/Mosiwi-4x4x4Cube-for-microbit>     
-![Img](./_static/16img.png)    
+![Img](./img/16img.png)    
 Wait for the loading of the library. After the loading is successful, the following figure is shown:   
-![Img](./_static/17img.png)    
+![Img](./img/17img.png)    
 
 **Block code parsing:**         
 1. Initialize and enable   
-![Img](./_static/18img.png)    
+![Img](./img/18img.png)    
 Initializes the total number of concatenated cubes. A maximum of 3 cubes can be concatenated.     
-![Img](./_static/19img.png)      
+![Img](./img/19img.png)      
 Enable all cubes to be concatenated.     
 Usage:  
-![Img](./_static/20img.png)         
+![Img](./img/20img.png)         
 
 2. Light up some leds in the cube by converting a base-2 number to a base-10 number.    
-![Img](./_static/21img.png)        
+![Img](./img/21img.png)        
 Cube: Select a cube in all concatenations. The value can be 0 to 3.     
 Layer: Select a layer in the cube. The value can be 0 to 3.   
 LED0-LED15: The 16 leds in one layer are mapped to a 16-bit binary number: 0bxxxxxxxxxxxxxxxx. Convert to a decimal number from 0 to 65535.    
 
 3. Light a layer of leds through images.   
-![Img](./_static/22img.png)
+![Img](./img/22img.png)
 Cube: Select a cube in all concatenations. The value can be 0 to 3.      
 Layer: Select a layer in the cube. The value can be 0 to 3.   
 LED0-LED15: A 5\*5 lattice image uses only its 4\*4 lattice.   
 Usage:  
-![Img](./_static/23img.png)        
+![Img](./img/23img.png)        
 "x": invalid      
 
 4. Light an LED in the cube through the coordinates.   
-![Img](./_static/24img.png)      
+![Img](./img/24img.png)      
 Cube: Select a cube in all concatenations. The value can be 0 to 3.        
 X, Y, Z: 0 to 3. 
 LED: 0 or 1, 0: OFF, 1: ON.  
@@ -222,7 +222,7 @@ LED: 0 or 1, 0: OFF, 1: ON.
 ## Internal operating principle (Option)        
 ----------------------------------------
 **schematic diagram**      
-![Img](./_static/1img.png)     
+![Img](./img/1img.png)     
 The light cube has 4 layers (F1, F2, F3, F4), each layer has 16 leds with common cathode wiring, which are controlled by 3 74HC595 serial to parallel data chips. Use the MCU's timing interrupt function to turn on and off the leds in each layer (frequency ≥50Hz) to achieve control of all the leds in the cube.    
 
 **Communication data format**    
@@ -235,7 +235,7 @@ A data stream:
 "Dx": 0 or 1.  
 
 A data stream entry protocol:  
-![Img](./_static/2img.png)  
+![Img](./img/2img.png)  
 DIN  = Data_in  
 ST_C = ST_clock  
 SH_C = Shift_clock, the recommended frequency is less than 25MHz.  
