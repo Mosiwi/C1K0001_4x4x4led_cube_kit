@@ -23,7 +23,7 @@ This is a very interesting light cube that can be used for learning programming 
 
 ## Assembly steps      
 -----------------    
-Please refer to: [Link]()  
+Please refer to: [Link](./assembly/assembly%20.md)  
 
 ## Series method  
 ----------------
