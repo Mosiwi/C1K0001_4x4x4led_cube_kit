@@ -2,7 +2,7 @@ site_name: Mosiwi
 theme:
   name: readthedocs
   highlightjs: true
-  logo: assets/mosiwi_logo.png
+  logo: web_logo/mosiwi_logo.png
 plugins:
   - search
   - mkdocstrings:
@@ -14,4 +14,4 @@ plugins:
 markdown_extensions:
   - markdown_include.include:
       base_path: .
-  - admonition 
+  - admonition
