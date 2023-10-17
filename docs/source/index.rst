@@ -1,5 +1,5 @@
-Table of Contents Home
-==============================
+Subproject index page
+=====================
 
 .. toctree::
    :maxdepth: 3
