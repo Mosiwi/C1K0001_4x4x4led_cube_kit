@@ -10,8 +10,8 @@ If you want to download the PDF tutorial, click on "v: latest" at the bottom rig
 
 .. note::
 
-   Although the PDF tutorial is downloaded, 
-   much of the content of the tutorial needs to be obtained from the Internet.
+   Although the PDF tutorial was downloaded, 
+   parts of this tutorial still need to be obtained from the Internet.
 
 .. toctree::
    :maxdepth: 3
