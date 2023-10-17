@@ -61,6 +61,3 @@ If you update the execution file or modify the source code, you need to recompil
 sudo make    
 ```   
 
-------------
-**📜 Next!** 
-

@@ -16,7 +16,9 @@ If you want to download the PDF tutorial, click on "v: latest" at the bottom rig
 .. toctree::
    :maxdepth: 3
    :caption: C1K0000_4in1_basic_learing_kit:
-    
+   
+   Previous_tutorial <previous_tutorial.md>   
+   Assembly_tutorial <assembly_tutorial.md>
    Arduino_tutorial <arduino_tutorial.md>
    Raspberry_pico_tutorial <pico_tutorial.md>
    Raspberry_pi4_tutorial <pi4_tutorial.md>

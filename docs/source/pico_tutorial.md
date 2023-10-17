@@ -31,5 +31,4 @@ Run the code offline. (The code is stored in pico, and the code in pico is autom
 |:---:|:---:|:---:|
 | ![Img](./_static/pico_tutorial/5img.png) | ![Img](./_static/pico_tutorial/6img.png) | ![Img](./_static/pico_tutorial/7img.png) |
 
-------------
-**📜 Next!** 
+

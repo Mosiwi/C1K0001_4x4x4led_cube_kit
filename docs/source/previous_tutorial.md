@@ -39,5 +39,3 @@ Download resource: <https://github.com/mosiwi/Mosiwi-4x4x4cube>
 The downloaded zip file will be used in later tutorials:  
 ![Img](./_static/previous_tutorial/12img.png)
 
-------------
-**📜 Next!** 

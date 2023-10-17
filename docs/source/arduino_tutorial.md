@@ -30,5 +30,3 @@ If you have successfully loaded the library file, you can open the sample code i
 
 After opening the sample, select the "Arduino UNO" or "Arduino nano" development board, then select the COMx port, and then upload the code to the development board.  
 
-------------
-**📜 Next!** 
