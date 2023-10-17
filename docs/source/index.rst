@@ -3,7 +3,7 @@ Subproject index page
 Thank you for choosing Mosiwi products!    
 
 Get Technical support(E-mail):       
-|mosiwi@outlook.com
+|xxx@outlook.com
 
 We also have more products and teaching resources:     
 |https://docs.mosiwi.com
