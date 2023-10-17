@@ -17,7 +17,11 @@ If you want to download the PDF tutorial, click on "v: latest" at the bottom rig
    :maxdepth: 3
    :caption: C1K0000_4in1_basic_learing_kit:
     
-   Tutorial <C1K0001_4x4x4led_cube_kit.md>
+   Arduino_tutorial <arduino_tutorial.md>
+   Raspberry_pico_tutorial <pico_tutorial.md>
+   Raspberry_pi4_tutorial <pi4_tutorial.md>
+   Micro:bit_tutorial <microbit_tutorial.md>
+   Optional_resources <optional_resources.md>
    
    
 
