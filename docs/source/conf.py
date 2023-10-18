@@ -47,3 +47,7 @@ source_suffix = ['.rst', '.md']
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+# set font
+html_css_files = [
+    '_static/my_css_style/my_css-style.css',
+]
