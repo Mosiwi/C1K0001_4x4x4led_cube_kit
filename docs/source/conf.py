@@ -37,7 +37,13 @@ html_search_language = 'en'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+
 html_static_path = ['_static']
+# set font
+html_css_files = [
+    'my_css_style/my_css-style.css',
+]
+
 html_logo = '_static/web_logo/logo_mosiwi.png'
 html_favicon = '_static/web_logo/my_favicon.png'
 html_show_sphinx = False
@@ -47,7 +53,3 @@ source_suffix = ['.rst', '.md']
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-# set font
-html_css_files = [
-    '_static/my_css_style/my_css-style.css',
-]
