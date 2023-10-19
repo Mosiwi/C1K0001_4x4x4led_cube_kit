@@ -19,7 +19,11 @@ release = 'v1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'myst_parser',
+    # https://myst-parser.readthedocs.io/en/latest/intro.html
+    "myst_parser",
+    "sphinx_design",
+    "sphinx-copybutton",   # Add a copy button to your code blocks
+    "sphinx-tippy",        # Add tooltips to your documentation
 ]
 source_suffix = {
     '.rst': 'restructuredtext',
