@@ -17,20 +17,26 @@ release = 'v1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
+# https://myst-parser.readthedocs.io/en/latest/
 extensions = [
     # https://myst-parser.readthedocs.io/en/latest/intro.html
-    "myst_parser",
+    "myst_parser",         
     "sphinx_design",
     "sphinx_copybutton",   # Add a copy button to your code blocks
-    # "sphinx_tippy",        # Add tooltips to your documentation
+    # "sphinx_tippy",      # Add tooltips to your documentation
 ]
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
 source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
-myst_enable_extensions = ["colon_fence"]
+
+# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#syntax-extensions
+myst_enable_extensions = [
+    "colon_fence",
+    "dollarmath",        # Displays mathematical formulas
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
