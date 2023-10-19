@@ -22,8 +22,8 @@ extensions = [
     # https://myst-parser.readthedocs.io/en/latest/intro.html
     "myst_parser",
     "sphinx_design",
-    "sphinx-copybutton",   # Add a copy button to your code blocks
-    "sphinx-tippy",        # Add tooltips to your documentation
+    # "sphinx_copybutton",   # Add a copy button to your code blocks
+    "sphinx_tippy",        # Add tooltips to your documentation
 ]
 source_suffix = {
     '.rst': 'restructuredtext',
