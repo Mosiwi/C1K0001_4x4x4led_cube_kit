@@ -21,6 +21,12 @@ release = 'v1.0'
 extensions = [
     'myst_parser',
 ]
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
+source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
+myst_enable_extensions = ["colon_fence"]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -48,10 +54,6 @@ html_logo = '_static/web_logo/logo_mosiwi.png'
 html_favicon = '_static/web_logo/my_favicon.png'
 html_show_sphinx = False
 
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown',
-}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
