@@ -48,7 +48,10 @@ html_logo = '_static/web_logo/logo_mosiwi.png'
 html_favicon = '_static/web_logo/my_favicon.png'
 html_show_sphinx = False
 
-source_suffix = ['.rst', '.md']
+source_suffix = [
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
