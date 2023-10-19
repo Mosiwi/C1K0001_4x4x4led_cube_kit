@@ -41,7 +41,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 # set font
 html_css_files = [
-    '_static/my_css_style/my_css-style.css',
+    '_static/css_style/my_css-style.css',
 ]
 
 html_logo = '_static/web_logo/logo_mosiwi.png'

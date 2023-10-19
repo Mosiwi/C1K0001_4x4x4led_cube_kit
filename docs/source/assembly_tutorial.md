@@ -1,8 +1,9 @@
 # Assembly_tutorial  
 -------------------
 
-Updating ...
 
+Updating ...
  
-   
+ !!! Note:
+    Please wait for us to update the assembly tutorial!
 
