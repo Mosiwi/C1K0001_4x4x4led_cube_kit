@@ -1,8 +1,18 @@
 # Arduino_tutorial  
 ------------------
-**Arduino basics  (Important):**  
-If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/arduino/A1D0000_uno_r3/A1D0000_uno_r3.html)  
+This tutorial is based on Arduino UNO R3 and Nano!    
 
+
+**Arduino basics  (Important):**  
+If you don't have Arduino basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/arduino/A1D0000_uno_r3/A1D0000_uno_r3.html)     
+1. Learn about UNO R3 motherboards briefly.     
+2. Install the Arduino IDE.   
+3. Upload the code to UNO R3.   
+
+```{tip}
+The Nano is used in a similar way to the UNO R3, but select "Arduino Nano" when selecting the board type.   
+```
+![img](./_static/arduino_tutorial/4img.jpg)
 
 ## Wiring diagram
 ----------------- 
@@ -30,3 +40,5 @@ If you have successfully loaded the library file, you can open the sample code i
 
 After opening the sample, select the "Arduino UNO" or "Arduino nano" development board, then select the COMx port, and then upload the code to the development board.  
 
+------------
+**End!** 

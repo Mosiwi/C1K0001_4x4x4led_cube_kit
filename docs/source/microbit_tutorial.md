@@ -1,7 +1,10 @@
 # Micro:bit_tutorial  
 --------------------   
 **Microbit basics (Important):**   
-If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html)  
+If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html)      
+1. Learn about Micro:bit motherboards briefly. 
+2. Learn to program with MakeCode.   
+3. Upload the code to Micro:bit.  
 
 ## Wiring diagram
 -----------------  
@@ -49,7 +52,7 @@ Cube: Select a cube in all concatenations. The value can be 0 to 3.
 Layer: Select a layer in the cube. The value can be 0 to 3.   
 LED0-LED15: A 5\*5 lattice image uses only its 4\*4 lattice.   
 Usage:  
-![Img](./_static/microbit_tutorial/10img.png)        
+![Img](./_static/microbit_tutorial/10img.jpg)        
 "x": invalid      
 
 4. Light an LED in the cube through the coordinates.   
@@ -58,6 +61,10 @@ Cube: Select a cube in all concatenations. The value can be 0 to 3.
 X, Y, Z: 0 to 3. 
 LED: 0 or 1, 0: OFF, 1: ON.  
  
+## Example code      
+---------------
+![](./_static/microbit_tutorial/12img.jpg)
+
 ------------
 **End!** 
 

@@ -1,7 +1,11 @@
 # Raspberry_pi4_tutorial
 ------------------------
 **Pi4 basics (Important):**   
-If you don't have Pi4 basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.html)  
+If you don't have Pi4 basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0000_raspberry_pi4/R1D0000_raspberry_pi4.html)     
+1. Learn about Raspberry pi4 motherboards briefly. 
+2. Learn to install the Raspberry PI system.    
+3. Learn to launch Raspberry PI.
+4. Learn simple linux operation instructions.   
 
 Install the GPIO library for Raspberry pi4 (<span style="color: rgb(255, 76, 65);">Necessary condition</span>):                 
 1. Install the [Wiringpi](https://docs.mosiwi.com/en/latest/raspberry/wiringpi/wiringpi.html)   
@@ -39,7 +43,6 @@ Open the Raspberry pi4 or [Git](https://git-scm.com/) terminal and run the follo
  sudo chmod 777 cube Makefile
 ```
 
-
 ## Run code
 -----------     
 3wire example.      
@@ -61,3 +64,5 @@ If you update the execution file or modify the source code, you need to recompil
 sudo make    
 ```   
 
+------------
+**End!** 

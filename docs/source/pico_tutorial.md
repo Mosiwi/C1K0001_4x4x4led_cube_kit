@@ -1,8 +1,11 @@
 # Raspberry_pico_tutorial  
 -------------------------
 **Pico and Thonny basics (Important):**        
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)  
- 
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)   
+1. Learn about Pico motherboards briefly.     
+2. Install the Thonny IDE.   
+3. Upload the code to Pico.   
+
 ## Wiring diagram
 -----------------   
 |      pico     |   Cube   |  
@@ -31,4 +34,9 @@ Run the code offline. (The code is stored in pico, and the code in pico is autom
 |:---:|:---:|:---:|
 | ![Img](./_static/pico_tutorial/5img.png) | ![Img](./_static/pico_tutorial/6img.png) | ![Img](./_static/pico_tutorial/7img.png) |
 
+```{tip}
+Online operation requires that the Pico board is always connected to the PC, offline operation does not need to be, according to the actual situation to choose the operation mode you need.
+```
 
+------------
+**End!** 
