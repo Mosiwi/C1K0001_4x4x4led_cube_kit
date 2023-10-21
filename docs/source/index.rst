@@ -17,13 +17,13 @@ If you want to download the PDF tutorial, click on "v: latest" at the bottom rig
    :maxdepth: 3
    :caption: C1K0000_4in1_basic_learing_kit:
    
-   1. Previous_tutorial <previous_tutorial.md>   
-   2. Assembly_tutorial <assembly_tutorial.md>
-   3. Arduino_tutorial <arduino_tutorial.md>
-   4. Raspberry_pico_tutorial <pico_tutorial.md>
-   5. Raspberry_pi4_tutorial <pi4_tutorial.md>
-   6. Micro:bit_tutorial <microbit_tutorial.md>
-   7. Optional_resources <optional_resources.md>
+   1. Previous_tutorial <previous_tutorial/previous_tutorial.md>   
+   2. Assembly_tutorial <assembly_tutorial/assembly_tutorial.md>
+   3. Arduino_tutorial <arduino_tutorial/arduino_tutorial.md>
+   4. Raspberry_pico_tutorial <pico_tutorial/pico_tutorial.md>
+   5. Raspberry_pi4_tutorial <pi4_tutorial/pi4_tutorial.md>
+   6. Micro:bit_tutorial <microbit_tutorial/microbit_tutorial.md>
+   7. Optional_resources <optional_resources/optional_resources.md>
    
    
 

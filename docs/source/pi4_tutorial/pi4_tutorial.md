@@ -31,7 +31,7 @@ Open the Raspberry pi4 or [Git](https://git-scm.com/) terminal and run the follo
 ```    
  git clone https://github.com/mosiwi/Mosiwi-4x4x4cube    
 ```   
-![Img](./_static/pi4_tutorial/1img.png)           
+![Img](./pi4_img/1img.png)           
 (Terminal of Raspberry pi4)
 
 **Add execute permissions for the files:**     

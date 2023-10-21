@@ -4,7 +4,7 @@ This part explains the inner working principle of the optical cube in depth, and
 
 ## schematic diagram
 --------------------    
-![Img](./_static/optional_resources/1img.png)     
+![Img](./optional_img/1img.png)     
 The light cube has 4 layers (F1, F2, F3, F4), each layer has 16 leds with common cathode wiring, which are controlled by 3 74HC595 serial to parallel data chips. Use the MCU's timing interrupt function to turn on and off the leds in each layer (frequency ≥50Hz) to achieve control of all the leds in the cube.    
 
 ## Communication data format
@@ -18,7 +18,7 @@ A data stream:
 "Dx": 0 or 1.  
 
 A data stream entry protocol:  
-![Img](./_static/optional_resources/2img.png)  
+![Img](./optional_img/2img.png)  
 DIN  = Data_in  
 ST_C = ST_clock  
 SH_C = Shift_clock, the recommended frequency is less than 25MHz.  
