@@ -30,8 +30,8 @@ Use **WinSCP** to upload the downloaded library file to Raspberry Pi4: [Link](ht
 Open the Raspberry pi4 or [Git](https://git-scm.com/) terminal and run the following command to download it from github.     
 ```    
  git clone https://github.com/mosiwi/Mosiwi-4x4x4cube    
-```   
-![Img](./pi4_img/1img.png)           
+```           
+![Img](../_static/pi4/img/1img.png)             
 (Terminal of Raspberry pi4)
 
 **Add execute permissions for the files:**     

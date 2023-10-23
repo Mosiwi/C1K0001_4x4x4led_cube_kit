@@ -12,7 +12,7 @@ If you don't have Arduino basics, you can follow the link to learn the basics: [
 ```{tip}
 The Nano is used in a similar way to the UNO R3, but select "Arduino Nano" when selecting the board type.   
 ```
-![img](./arduino_img/4img.jpg)
+![img](../_static/arduino/img/4img.jpg)      
 
 ## Wiring diagram
 ----------------- 
@@ -27,16 +27,16 @@ The Nano is used in a similar way to the UNO R3, but select "Arduino Nano" when 
 ## Install the Arduino library file
 -----------------------------------  
 Load the "Mosiwi-4x4x4cube.zip" file downloaded above into the arduino IDE:          
-![Img](./arduino_img/1img.png)       
+![Img](../_static/arduino/img/1img.png)       
 Select the compressed library file to load:       
-![Img](./arduino_img/2img.png)
+![Img](../_static/arduino/img/2img.png)
 
 For other methods, see (Option): <https://www.arduino.cc/en/Guide/Libraries>      
 
 ## Use the example code in the library file
 -------------------------------------------    
 If you have successfully loaded the library file, you can open the sample code in the library file in the arduino IDE as follows.   
-![Img](./arduino_img/3img.png)   
+![Img](../_static/arduino/img/3img.png)   
 
 After opening the sample, select the "Arduino UNO" or "Arduino nano" development board, then select the COMx port, and then upload the code to the development board.  
 
