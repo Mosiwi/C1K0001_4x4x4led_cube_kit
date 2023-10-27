@@ -35,7 +35,7 @@ Load the "Mosiwi-4x4x4cube.zip" file downloaded above into the arduino IDE:
 Select the compressed library file to load:       
 ![Img](../_static/arduino/img/2img.png)
 
-For other methods, see (Option): <https://www.arduino.cc/en/Guide/Libraries>      
+For more information, see: [Click me](https://docs.mosiwi.com/en/latest/arduino/resources/arduino_libraries/arduino_libraries.html)            
 
 ## Use the example code in the library file
 -------------------------------------------    
