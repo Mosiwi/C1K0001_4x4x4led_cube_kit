@@ -1,10 +1,10 @@
 # Micro:bit_tutorial  
 --------------------   
 **Microbit basics (Important):**   
-If you don't have microbit basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html)      
-1. Learn about Micro:bit motherboards briefly. 
-2. Learn to program with MakeCode.   
-3. Upload the code to Micro:bit.  
+If you don't have microbit basics, you can follow the link to learn the basics:           
+1. Learn about [Micro:bit](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html) briefly. 
+2. Learn to program with [MakeCode](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html#programming-platform).   
+3. [Upload the code to Micro:bit](https://docs.mosiwi.com/en/latest/microbit/M1D0000_microbit_mainboard/M1D0000_microbit_mainboard.html#makecode).  
 
 ## Wiring diagram
 -----------------  

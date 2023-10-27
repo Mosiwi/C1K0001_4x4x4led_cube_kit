@@ -1,10 +1,10 @@
 # Raspberry_pico_tutorial  
 -------------------------
 **Pico and Thonny basics (Important):**        
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)   
-1. Learn about Pico motherboards briefly.     
-2. Install the Thonny IDE.   
-3. Upload the code to Pico.   
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics:       
+1. Learn about [Pico](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html) briefly.     
+2. Install the [Thonny](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html#using-micropython-in-thonny) IDE.   
+3. [Upload the code to Pico](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html#save-existing-files-or-folders-to-pico).   
 
 ## Wiring diagram
 -----------------   
@@ -39,4 +39,6 @@ Online operation requires that the Pico board is always connected to the PC, off
 ```
 
 ------------
+More microbit learning Resources: [Click me](https://docs.mosiwi.com/projects/c1k0000/en/latest/pico_tutorial/basic_tutorial.html)
+
 **End!** 
