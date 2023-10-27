@@ -39,6 +39,6 @@ Online operation requires that the Pico board is always connected to the PC, off
 ```
 
 ------------
-More microbit learning Resources: [Click me](https://docs.mosiwi.com/projects/c1k0000/en/latest/pico_tutorial/basic_tutorial.html)
+More Pico learning Resources: [Click me](https://docs.mosiwi.com/projects/c1k0000/en/latest/pico_tutorial/basic_tutorial.html)
 
 **End!** 
