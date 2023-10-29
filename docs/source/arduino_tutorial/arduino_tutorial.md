@@ -44,11 +44,15 @@ If you have successfully loaded the library file, you can open the example code 
 
 After opening the example, select the "Arduino UNO" or "Arduino nano" development board, then select the COMx port, and then upload the code to the development board.  
 
-| 1 | 2 |    
-| :--: | :--: |    
-| ![img](../_static/arduino/img/5img.jpg) | ![img](../_static/arduino/img/6img.jpg) |     
-| 3 | 4 |    
-| ![img](../_static/arduino/img/7img.jpg) | ![img](../_static/arduino/img/8img.jpg) |   
+| 1 |      
+| :--: |   
+| ![img](../_static/arduino/img/5img.jpg) |    
+| 2 |  
+| ![img](../_static/arduino/img/6img.jpg) |     
+| 3 |    
+| ![img](../_static/arduino/img/7img.jpg) |     
+| 4 | 
+| ![img](../_static/arduino/img/8img.jpg) |      
 
 ------------
 More arduino learning Resources: [Click me](https://docs.mosiwi.com/projects/c1k0000/en/latest/arduino_tutorial/basic_tutorial.html)
